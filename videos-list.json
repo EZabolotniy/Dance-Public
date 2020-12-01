@@ -1,15 +1,18 @@
 [
   {
     "name": "Arnaldo Mangini 1",
-    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_1.mov"
+    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_1.mov",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_1.jpeg"
   },
   {
     "name": "Arnaldo Mangini 2",
-    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_2.mov"
+    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_2.mov",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_2.jpeg"
   },
   {
     "name": "Arnaldo Mangini 3",
-    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_3.mov"
+    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_3.mov",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_3.jpeg"
   },
   {
     "name": "Gianluca Vacchi",
@@ -17,14 +20,17 @@
   },
   {
     "name": "Howard Mandel",
-    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Howard_Mandel.mov"
+    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Howard_Mandel.mov",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Howard_Mandel.jpeg"
   },
   {
     "name": "Sebastian Rulli",
-    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Sebastian_Rulli.mov"
+    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Sebastian_Rulli.mov",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Sebastian_Rulli.jpeg"
   },
   {
     "name": "Theshilpashetty",
-    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Theshilpashetty.mov"
+    "url": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Theshilpashetty.mov",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Theshilpashetty.jpeg"
   }
 ]
