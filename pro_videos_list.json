@@ -2,27 +2,35 @@
   {
     "name": "Shuffle",
     "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Gianluca_Vacchi_.jpeg",
-    "videoItemsGroups": {
-      "name": "Gianluca Vacchi",
-      "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Gianluca_Vacchi_.jpeg",
-      "videoItemsGroups": {
-        "name": "Lesson 1",
+    "videoItemsGroups": [
+      {
+        "name": "Gianluca Vacchi",
         "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Gianluca_Vacchi_.jpeg",
-        "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/v070441f0000bt19nesct8b3elts6100.mov"]
+        "videoItemsGroups": [
+          {
+            "name": "Lesson 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Gianluca_Vacchi_.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/v070441f0000bt19nesct8b3elts6100.mov"]
+          }
+        ]
       }
-    }
+    ]
   },
   {
     "name": "Hip Hop",
     "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.jpeg",
-    "videoItemsGroups": {
-      "name": "@sheks_mds",
-      "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.jpeg",
-      "videoItemsGroups": {
-        "name": "Lesson 1",
+    "videoItemsGroups": [
+      {
+        "name": "@sheks_mds",
         "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.jpeg",
-        "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.mp4"]
+        "videoItemsGroups": [
+          {
+            "name": "Lesson 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.mp4"]
+          }
+        ]
       }
-    }
+    ]
   }
 ]
