@@ -1,16 +1,210 @@
 [
   {
     "name": "Shuffle",
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Gianluca_Vacchi_.jpeg",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/shuffle_banner.jpg",
     "videoItemsGroups": [
       {
-        "name": "Gianluca Vacchi",
-        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Gianluca_Vacchi_.jpeg",
+        "name": "@sammysteads",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%204/banner.jpeg",
         "videoItemsGroups": [
           {
-            "name": "Lesson 1",
-            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Gianluca_Vacchi_.jpeg",
-            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/v070441f0000bt19nesct8b3elts6100.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.mp4"]
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%201/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%201/2.mov"]
+          },
+          {
+            "name": "Tutorial 2",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%202/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%202/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%202/2.mov"]
+          },
+          {
+            "name": "Tutorial 3",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%203/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%203/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%203/2.mov"]
+          },
+          {
+            "name": "Tutorial 4",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%204/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%204/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%204/2.mov"]
+          },
+          {
+            "name": "Tutorial 5",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%205/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%205/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%205/2.mov"]
+          },
+          {
+            "name": "Tutorial 6",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%206/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%206/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%206/2.mov"]
+          },
+          {
+            "name": "Tutorial 7",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%207/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%207/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%207/2.mov"]
+          },
+          {
+            "name": "Tutorial 8",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%208/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%208/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%208/2.mov"]
+          }
+        ]
+      },
+      {
+        "name": "@mkmkmk.m",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%201/banner.jpeg",
+        "videoItemsGroups": [
+          {
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%201/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%201/2.mov"]
+          },
+          {
+            "name": "Tutorial 2",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%202/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%202/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%202/2.mov"]
+          },
+          {
+            "name": "Tutorial 3",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%203/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%203/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%203/2.mov"]
+          },
+          {
+            "name": "Tutorial 4",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%204/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%204/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%204/2.mov"]
+          },
+          {
+            "name": "Tutorial 5",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%205/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%205/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%205/2.mov"]
+          },
+          {
+            "name": "Tutorial 6",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%206/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%206/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%206/2.mov"]
+          },
+          {
+            "name": "Tutorial 7",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%207/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%207/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%207/2.mov"]
+          },
+          {
+            "name": "Tutorial 8",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%208/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%208/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%208/2.mov"]
+          },
+          {
+            "name": "Tutorial 9",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%209/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%209/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%209/2.mov"]
+          },
+          {
+            "name": "Tutorial 10",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2010/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2010/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2010/2.mov"]
+          },
+          {
+            "name": "Tutorial 11",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2011/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2011/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2011/2.mov"]
+          },
+          {
+            "name": "Tutorial 12",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2012/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2012/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2012/2.mov"]
+          },
+          {
+            "name": "Tutorial 13",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2013/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2013/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/mkmkmk/tutorial%2013/2.mov"]
+          }
+        ]
+      },
+      {
+        "name": "@llaurengibson",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/llaurengibson/tutorial%201/banner.jpeg",
+        "videoItemsGroups": [
+          {
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/llaurengibson/tutorial%201/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/llaurengibson/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/llaurengibson/tutorial%201/2.mov"]
+          }
+        ]
+      },
+      {
+        "name": "@tibinjoseph",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/tibinjoseph/tutorial%201/banner.jpeg",
+        "videoItemsGroups": [
+          {
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/tibinjoseph/tutorial%201/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/tibinjoseph/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/tibinjoseph/tutorial%201/2.mov"]
+          }
+        ]
+      },
+      {
+        "name": "@tuzelitydance",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/tuzelitydance/tutorial%201/banner.jpeg",
+        "videoItemsGroups": [
+          {
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/tuzelitydance/tutorial%201/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/tuzelitydance/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/tuzelitydance/tutorial%201/2.mov"]
+          }
+        ]
+      },
+      {
+        "name": "@kokoon888",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/kokoon888/tutorial%201/banner.jpeg",
+        "videoItemsGroups": [
+          {
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/kokoon888/tutorial%201/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/kokoon888/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/kokoon888/tutorial%201/2.mov"]
+          }
+        ]
+      },
+      {
+        "name": "@king_min_su",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/king_min_su/tutorial%201/banner.jpeg",
+        "videoItemsGroups": [
+          {
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/king_min_su/tutorial%201/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/king_min_su/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/king_min_su/tutorial%201/2.mov"]
+          }
+        ]
+      },
+      {
+        "name": "@svyatnaturalbeat1",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/svyatnaturalbeat1/tutorial%201/banner.jpeg",
+        "videoItemsGroups": [
+          {
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/svyatnaturalbeat1/tutorial%201/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/svyatnaturalbeat1/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/svyatnaturalbeat1/tutorial%201/2.mov"]
+          }
+        ]
+      },
+      {
+        "name": "@joeyy_s",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/joeyy_s/tutorial%201/banner.jpeg",
+        "videoItemsGroups": [
+          {
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/joeyy_s/tutorial%201/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/joeyy_s/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/joeyy_s/tutorial%201/2.mov"]
+          }
+        ]
+      },
+      {
+        "name": "@maks_karakul1n",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/maks_karakul1n/tutorial%201/banner.jpeg",
+        "videoItemsGroups": [
+          {
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/maks_karakul1n/tutorial%201/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/maks_karakul1n/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/maks_karakul1n/tutorial%201/2.mov"]
           }
         ]
       }
