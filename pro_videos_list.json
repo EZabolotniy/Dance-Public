@@ -164,16 +164,31 @@
   },
   {
     "name": "Hip Hop",
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.jpeg",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/hiphop_banner.jpg",
     "videoItemsGroups": [
       {
         "name": "@sheks_mds",
-        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.jpeg",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_1/banner.jpeg",
         "videoItemsGroups": [
           {
-            "name": "Lesson 1",
-            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.jpeg",
-            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/sheks_mds_1.mp4"]
+            "name": "Tutorial 1",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_1/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_1/full.mp4"]
+          },
+          {
+            "name": "Tutorial 2",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_2/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_2/full.mp4"]
+          },
+          {
+            "name": "Tutorial 3",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_3/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_3/full.mp4"]
+          },
+          {
+            "name": "Tutorial 4",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_4/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_4/full.mp4"]
           }
         ]
       }
