@@ -178,20 +178,17 @@
           {
             "name": "Tutorial 2",
             "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_2/banner.jpeg",
-            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_2/full.mp4"],
-            "productId": "com.Sphere.DanceScore.Sheks_Mds_Test"
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_2/full.mp4"]
           },
           {
             "name": "Tutorial 3",
             "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_3/banner.jpeg",
-            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_3/full.mp4"],
-            "productId": "com.Sphere.DanceScore.Sheks_Mds_Test"
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_3/full.mp4"]
           },
           {
             "name": "Tutorial 4",
             "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_4/banner.jpeg",
-            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_4/full.mp4"],
-            "productId": "com.Sphere.DanceScore.Sheks_Mds_Test"
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/sheks_mds/tutorial_4/full.mp4"]
           }
         ]
       }
