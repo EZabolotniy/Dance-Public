@@ -10,7 +10,12 @@
           {
             "name": "Tutorial 1",
             "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%201/banner.jpeg",
-            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%201/2.mov"]
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%201/1.mov", "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/sammysteads/tutorial%201/2.mov"],
+            "bodyPartsWeights": {
+                "arms": 0.1,
+                "legs": 0.9,
+                "spine": 0.0,
+            }
           },
           {
             "name": "Tutorial 2",
