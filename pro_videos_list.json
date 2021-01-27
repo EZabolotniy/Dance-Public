@@ -15,7 +15,8 @@
                 "arms": 0.0,
                 "legs": 1.0,
                 "spine": 0.0,
-            }
+            },
+            "isPartOfPaidCource": true
           },
           {
             "name": "Tutorial 2",
@@ -25,7 +26,8 @@
                 "arms": 0.0,
                 "legs": 1.0,
                 "spine": 0.0,
-            }
+            },
+            "isPartOfPaidCource": true
           },
           {
             "name": "Tutorial 3",
@@ -35,7 +37,8 @@
                 "arms": 0.0,
                 "legs": 1.0,
                 "spine": 0.0,
-            }
+            },
+            "isPartOfPaidCource": true
           },
           {
             "name": "Tutorial 4",
@@ -45,7 +48,8 @@
                 "arms": 0.0,
                 "legs": 1.0,
                 "spine": 0.0,
-            }
+            },
+            "isPartOfPaidCource": true
           },
           {
             "name": "Tutorial 5",
@@ -55,7 +59,8 @@
                 "arms": 0.0,
                 "legs": 1.0,
                 "spine": 0.0,
-            }
+            },
+            "isPartOfPaidCource": true
           },
           {
             "name": "Tutorial 6",
@@ -65,7 +70,8 @@
                 "arms": 0.0,
                 "legs": 1.0,
                 "spine": 0.0,
-            }
+            },
+            "isPartOfPaidCource": true
           },
           {
             "name": "Tutorial 7",
@@ -75,7 +81,8 @@
                 "arms": 0.0,
                 "legs": 1.0,
                 "spine": 0.0,
-            }
+            },
+            "isPartOfPaidCource": true
           },
           {
             "name": "Tutorial 8",
@@ -85,7 +92,8 @@
                 "arms": 0.0,
                 "legs": 1.0,
                 "spine": 0.0,
-            }
+            },
+            "isPartOfPaidCource": true
           }
         ]
       },
