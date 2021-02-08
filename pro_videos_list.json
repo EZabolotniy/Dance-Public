@@ -346,5 +346,32 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Volleyball",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/volleyball_banner.jpg",
+    "videoItemsGroups": [
+      {
+        "name": "Max Adonin",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/Adonin/tutorial_1/banner.jpeg",
+        "videoItemsGroups": [
+          {
+            "name": "Атака",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_1/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_1/full.mp4"]
+          },
+          {
+            "name": "Прием",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_2/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_2/full.mp4"]
+          },
+          {
+            "name": "Прием",
+            "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_3/banner.jpeg",
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_3/full.mp4"]
+          }
+        ]
+      }
+    ]
   }
 ]
