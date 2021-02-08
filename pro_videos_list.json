@@ -353,12 +353,17 @@
     "videoItemsGroups": [
       {
         "name": "Max Adonin",
-        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/Adonin/tutorial_1/banner.jpeg",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_1/banner.jpeg",
         "videoItemsGroups": [
           {
             "name": "Атака",
             "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_1/banner.jpeg",
-            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_1/full.mp4"]
+            "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_1/full.mp4"],
+            "bodyPartsWeights": {
+                "arms": 9.0,
+                "legs": 0.0,
+                "spine": 0.1,
+            }
           },
           {
             "name": "Прием",
