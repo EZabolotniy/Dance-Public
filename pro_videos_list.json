@@ -316,6 +316,12 @@
     ]
   },
   {
+    "name": "K-pop",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/K-pop/banner.jpeg",
+    "videoItemsGroups": [
+    ]
+  },
+  {
     "name": "Hip-Hop",
     "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/hiphop_banner.jpg",
     "videoItemsGroups": [
@@ -345,6 +351,30 @@
           }
         ]
       }
+    ]
+  },
+  {
+    "name": "Jazz Funk",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Jazz-Funk/banner.jpg",
+    "videoItemsGroups": [
+    ]
+  },
+  {
+    "name": "Contemporary",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Contemporary/banner.jpg",
+    "videoItemsGroups": [
+    ]
+  },
+  {
+    "name": "Jazz",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Jazz/banner.jpg",
+    "videoItemsGroups": [
+    ]
+  },
+  {
+    "name": "Modern",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Modern/banner.jpg",
+    "videoItemsGroups": [
     ]
   },
   {
