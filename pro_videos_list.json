@@ -322,6 +322,12 @@
     ]
   },
   {
+    "name": "Contemporary",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Contemporary/banner.jpg",
+    "videoItemsGroups": [
+    ]
+  },
+  {
     "name": "Hip-Hop",
     "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/HipHop/hiphop_banner.jpg",
     "videoItemsGroups": [
@@ -366,14 +372,14 @@
     ]
   },
   {
-    "name": "Jazz",
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Jazz/banner.jpg",
+    "name": "Modern",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Modern/banner.jpg",
     "videoItemsGroups": [
     ]
   },
   {
-    "name": "Modern",
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Modern/banner.jpg",
+    "name": "Jazz",
+    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Jazz/banner.jpg",
     "videoItemsGroups": [
     ]
   },
