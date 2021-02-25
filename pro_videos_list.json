@@ -25,7 +25,7 @@
                                     "legs": 1.0,
                                     "spine": 0.0,
                                 },
-                                "isPartOfPaidCource": true
+                                "isPartOfPaidCource": true,
                                 "isMirrored": false
                             }
                         ]
