@@ -26,6 +26,7 @@
                                     "spine": 0.0,
                                 },
                                 "isPartOfPaidCource": true
+                                "isMirrored": false
                             }
                         ]
                     }
