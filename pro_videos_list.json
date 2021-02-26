@@ -27,6 +27,38 @@
                                 },
                                 "isPartOfPaidCource": true,
                                 "isMirrored": false
+                            },
+                            {
+                                "name": "Урок 2",
+                                "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/epischev/basic/tutorial_2/banner.jpg",
+                                "urls": [
+                                    "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/epischev/basic/tutorial_2/1.mp4",
+                                    "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/epischev/basic/tutorial_2/2.mp4",
+                                    "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/epischev/basic/tutorial_2/3.mp4"
+                                ],
+                                "bodyPartsWeights": {
+                                    "arms": 0.0,
+                                    "legs": 1.0,
+                                    "spine": 0.0,
+                                },
+                                "isPartOfPaidCource": true,
+                                "isMirrored": false
+                            },
+                            {
+                                "name": "Урок 3",
+                                "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/epischev/basic/tutorial_3/banner.jpg",
+                                "urls": [
+                                    "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/epischev/basic/tutorial_3/1.mp4",
+                                    "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/epischev/basic/tutorial_3/2.mp4",
+                                    "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Shuffle/epischev/basic/tutorial_3/3.mp4"
+                                ],
+                                "bodyPartsWeights": {
+                                    "arms": 0.0,
+                                    "legs": 1.0,
+                                    "spine": 0.0,
+                                },
+                                "isPartOfPaidCource": true,
+                                "isMirrored": false
                             }
                         ]
                     }
