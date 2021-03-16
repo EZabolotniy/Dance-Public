@@ -1,72 +1,62 @@
 [
-  {
-    "name": "Gianluca Vacchi",
-    "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/v070441f0000bt19nesct8b3elts6100.mov"],
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Gianluca_Vacchi_.jpeg",
-    "bodyPartsWeights": {
-        "arms": 0.45,
-        "legs": 0.45,
-        "spine": 0.1,
+    {
+        "name": "Arnaldo Mangini",
+        "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Arnaldo_Mangini/1/1.mov"],
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Arnaldo_Mangini/1/banner.jpeg",
+        "bodyPartsWeights": {
+            "arms": 0.95,
+            "legs": 0.05,
+            "spine": 0.0,
+        }
+    },
+    {
+        "name": "Gianluca Vacchi",
+        "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Gianluca_Vacchi/1.mov"],
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Gianluca_Vacchi/banner.jpeg",
+        "bodyPartsWeights": {
+            "arms": 0.45,
+            "legs": 0.45,
+            "spine": 0.1,
+        }
+    },
+    {
+        "name": "Theshilpashetty",
+        "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Theshilpashetty/1.mp4"],
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Theshilpashetty/banner.jpeg",
+        "bodyPartsWeights": {
+            "arms": 0.7,
+            "legs": 0.2,
+            "spine": 0.1,
+        }
+    },
+    {
+        "name": "Howard Mandel",
+        "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Howard_Mandel/1.mov"],
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Howard_Mandel/banner.jpeg",
+        "bodyPartsWeights": {
+            "arms": 0.5,
+            "legs": 0.5,
+            "spine": 0.0,
+        }
+    },
+    {
+        "name": "Arnaldo Mangini",
+        "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Arnaldo_Mangini/2/1.mov"],
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Arnaldo_Mangini/2/banner.jpeg",
+        "bodyPartsWeights": {
+            "arms": 0.9,
+            "legs": 0.0,
+            "spine": 0.1,
+        }
+    },
+    {
+        "name": "Arnaldo Mangini",
+        "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Arnaldo_Mangini/3/1.mov"],
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Fun/Arnaldo_Mangini/3/banner.jpeg",
+        "bodyPartsWeights": {
+            "arms": 0.45,
+            "legs": 0.45,
+            "spine": 0.1,
+        }
     }
-  },
-  {
-    "name": "Arnaldo Mangini",
-    "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_1.mov"],
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_1_.jpeg",
-    "bodyPartsWeights": {
-        "arms": 0.95,
-        "legs": 0.05,
-        "spine": 0.0,
-    }
-  },
-  {
-    "name": "Theshilpashetty",
-    "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Theshilpashetty.mov"],
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Theshilpashetty_.jpeg",
-    "bodyPartsWeights": {
-        "arms": 0.7,
-        "legs": 0.2,
-        "spine": 0.1,
-    }
-  },
-  {
-    "name": "Sebastian Rulli",
-    "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Sebastian_Rulli.mov"],
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Sebastian_Rulli_.jpeg",
-    "bodyPartsWeights": {
-        "arms": 0.5,
-        "legs": 0.5,
-        "spine": 0.0,
-    }
-  },
-  {
-    "name": "Howard Mandel",
-    "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Howard_Mandel.mov"],
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Howard_Mandel_.jpeg",
-    "bodyPartsWeights": {
-        "arms": 0.5,
-        "legs": 0.5,
-        "spine": 0.0,
-    }
-  },
-  {
-    "name": "Arnaldo Mangini",
-    "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_2.mov"],
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_2_.jpeg",
-    "bodyPartsWeights": {
-        "arms": 0.9,
-        "legs": 0.0,
-        "spine": 0.1,
-    }
-  },
-  {
-    "name": "Arnaldo Mangini",
-    "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_3.mov"],
-    "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Arnaldo_Mangini_3_.jpeg",
-    "bodyPartsWeights": {
-        "arms": 0.45,
-        "legs": 0.45,
-        "spine": 0.1,
-    }
-  }
 ]
