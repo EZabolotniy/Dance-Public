@@ -392,6 +392,12 @@
         ]
     },
     {
+        "name": "Vogue",
+        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/banner.png",
+        "videoItemsGroups": [
+        ]
+    },
+    {
         "name": "K-pop",
         "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/K-pop/kpop_banner.jpg",
         "videoItemsGroups": [
@@ -412,12 +418,6 @@
     {
         "name": "Modern",
         "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Modern/banner.jpg",
-        "videoItemsGroups": [
-        ]
-    },
-    {
-        "name": "Jazz",
-        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Jazz/banner.jpg",
         "videoItemsGroups": [
         ]
     }
