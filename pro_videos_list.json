@@ -407,6 +407,32 @@
                             "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_1/2.mp4",
                             "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_1/3.mp4"
                         ]
+                    },
+                    {
+                        "name": "Tutorial 2",
+                        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_2/banner.PNG",
+                        "urls": [
+                            "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_2/1.mp4",
+                            "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_2/2.mp4"
+                        ]
+                    },
+                    {
+                        "name": "Tutorial 3",
+                        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_3/banner.PNG",
+                        "urls": [
+                            "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_3/1.mp4",
+                            "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_3/2.mp4",
+                            "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_3/3.mp4",
+                            "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_3/4.mp4"
+                        ]
+                    },
+                    {
+                        "name": "Tutorial 4",
+                        "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_4/banner.PNG",
+                        "urls": [
+                            "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_4/1.mp4",
+                            "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Vogue/_zvetlana___/tutorial_4/2.mp4",
+                        ]
                     }
                 ]
             }
