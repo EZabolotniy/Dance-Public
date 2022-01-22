@@ -473,12 +473,13 @@
                     {
                         "name": "Атака",
                         "imageUrl": "https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_1/banner.jpeg",
-                        "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_1/full_new.mp4"],
+                        "urls": ["https://github.com/EZabolotniy/Dance-Public/raw/gh-pages/Pro/Volleyball/Adonin/tutorial_1/full.mp4"],
                         "bodyPartsWeights": {
                             "arms": 9.0,
                             "legs": 0.0,
                             "spine": 0.1,
-                        }
+                        },
+                        "isMirrored": true
                     },
                     {
                         "name": "Прием",
